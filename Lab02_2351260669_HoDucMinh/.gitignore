@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+cache_tts/
+
+# Virtual environments
+.venv
+.ipynb_checkpoints/
