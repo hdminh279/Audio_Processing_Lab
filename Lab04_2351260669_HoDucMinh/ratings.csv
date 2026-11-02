@@ -1,0 +1,10 @@
+sentence_id,system,intelligibility,naturalness,continuity,mos,preference_ab
+S01,Concatenation,4.8,3.8,3.6,3.73,B
+S01,HMM,4.5,3.0,4.7,3.4,C
+S01,Neural_TTS,4.9,4.6,4.8,4.7,A
+S02,Concatenation,4.7,3.7,3.5,3.63,B
+S02,HMM,4.4,2.9,4.6,3.3,C
+S02,Neural_TTS,4.9,4.7,4.9,4.77,A
+S03,Concatenation,4.8,3.9,3.7,3.8,B
+S03,HMM,4.5,3.1,4.7,3.43,C
+S03,Neural_TTS,5.0,4.8,4.9,4.87,A

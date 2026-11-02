@@ -1,0 +1,19 @@
+[project]
+name = "lab03-2351260669-hoducminh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "hmmlearn>=0.3.3",
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "librosa>=1.0.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "soundfile>=0.14.0",
+]

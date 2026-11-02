@@ -1,0 +1,20 @@
+[
+  {
+    "sentence": "Mời khách hàng số 23 đến quầy 5.",
+    "latency_ms": 1361.05,
+    "duration_s": 4.7,
+    "rtf": 0.289
+  },
+  {
+    "sentence": "Mời khách hàng số 104 đến quầy 2.",
+    "latency_ms": 1196.38,
+    "duration_s": 5.06,
+    "rtf": 0.237
+  },
+  {
+    "sentence": "Mời khách hàng số 89 đến quầy 7.",
+    "latency_ms": 1412.24,
+    "duration_s": 4.74,
+    "rtf": 0.298
+  }
+]
